@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DrawingMenu {
     public static void main(String[] args) {
-        int choice = -1;
+        int choice;
         Scanner input = new Scanner(System.in);
 
         System.out.println("Menu");
