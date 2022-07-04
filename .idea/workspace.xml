@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f09075c3-80d6-4b99-aa88-19c9b923ab51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaiTap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DrawingMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawingMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaiTap1">
+  <component name="RunManager" selected="Application.BaiTap2">
     <configuration name="BaiTap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaiTap1" />
+      <module name="LoopsJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaiTap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap2" />
       <module name="LoopsJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaiTap2" />
         <item itemvalue="Application.BaiTap1" />
         <item itemvalue="Application.DrawingMenu" />
         <item itemvalue="Application.InterestCalculator" />
@@ -94,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656903852690</updated>
-      <workItem from="1656903854076" duration="4028000" />
+      <workItem from="1656903854076" duration="7280000" />
     </task>
     <servers />
   </component>
