@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f09075c3-80d6-4b99-aa88-19c9b923ab51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GreateCommonFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DrawingMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InterestCalculator">
+  <component name="RunManager" selected="Application.DrawingMenu">
+    <configuration name="DrawingMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DrawingMenu" />
+      <module name="LoopsJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterestCalculator" />
       <module name="LoopsJava" />
@@ -63,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DrawingMenu" />
         <item itemvalue="Application.InterestCalculator" />
         <item itemvalue="Application.IsPrime" />
       </list>
@@ -76,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656903852690</updated>
-      <workItem from="1656903854076" duration="1551000" />
+      <workItem from="1656903854076" duration="2154000" />
     </task>
     <servers />
   </component>
