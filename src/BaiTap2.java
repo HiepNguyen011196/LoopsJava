@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BaiTap2 {
     public static void main(String[] args) {
-        int n,count=0;
+        int count=0;
         int status = 1;
         int num = 3;
         System.out.println("First twenty prime numbers are: ");
